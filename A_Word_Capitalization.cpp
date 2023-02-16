@@ -2,11 +2,10 @@
 // Date: 16-02-2023
 // Description: A. Word Capitalization
 // Status: Accepted
-// Time: 62 ms
+// Time: 30 ms
 // Memory: 0 KB
 // Link: https://codeforces.com/problemset/problem/281/A
 // Platform: Codeforces
-// Version: 1.0.0
 
 #include <iostream>
 using namespace std;
