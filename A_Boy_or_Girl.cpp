@@ -2,11 +2,10 @@
 // Date: 16-02-2023
 // Description: A Boy or Girl
 // Status: Accepted
-// Time: 62 ms
+// Time: 30 ms
 // Memory: 0 KB
 // Link: https://codeforces.com/problemset/problem/236/A
 // Platform: Codeforces
-// Version: 1.0.0
 
 #include<bits/stdc++.h>
 using namespace std;
